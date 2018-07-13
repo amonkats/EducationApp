@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="when_did_uganda_get_independence">When did Uganda get Independence ?</string>
+    <string name="write_your_answer">Write your answer</string>
+    <string name="submit">Submit</string>
+    <string name="question_no">Question No :</string>
+</resources>
